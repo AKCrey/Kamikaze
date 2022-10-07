@@ -286,10 +286,5 @@ public class PlayerController : MonoBehaviour
                 //Goodbye player
             //}
         }
-
-    
-
     }
-
-
 }
